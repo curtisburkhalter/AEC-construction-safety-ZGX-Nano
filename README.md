@@ -181,3 +181,6 @@ To add new API endpoints, extend `backend/main.py` with additional FastAPI route
 
 This project is provided as-is for construction safety demonstration purposes.
 
+## Support
+
+If you have questions about this demo contact Curtis Burkhalter at curtisburkhalter@gmail.com
